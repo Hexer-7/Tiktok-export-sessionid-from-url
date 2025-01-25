@@ -1,11 +1,14 @@
+This is a straightforward code for extracting the sessionid from a user via a URL.
 
-This is a straightforward code for exporting the `sessionid` from a user via a URL.
+* Instructions:
 
-**Instructions:**
+    - Provide the TikTok URL (e.g., https://tiktok.com/t/ZMrbCH***).
 
-1. Provide the TikTok URL (e.g., `https://tiktok.com/t/ZMrbCH***`).
-2. The user should open this URL on their phone.
-3. The TikTok app will launch and request access.
-4. If the user grants access, the Python code will print the `sessionid`.
+    - The user should open this URL on their phone.
 
-I hope this code helps make your project the best it can be :)
+    - The TikTok app will launch and request access.
+
+    - If the user grants access, the Python code will print the sessionid.
+- Note: sessionid give you full access on account (can't change password).
+
+I hope this code helps you make your project the best it can be! :)
